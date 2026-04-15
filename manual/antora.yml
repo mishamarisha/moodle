@@ -1,2 +1,5 @@
 name: 'manual'
+title: Руководство пользователя
 version: ~
+nav:
+  - modules/ROOT/pages/nav.adoc
